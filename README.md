@@ -47,7 +47,7 @@ A lightweight PHP web application that allows school teachers to submit their Te
 ## 🧪 How to Run
 
 ```bash
-git clone https://github.com/yourusername/question-submission-system.git
+git clone https://github.com/rcplaneboss/question-submission-system.git
 cd question-submission-system
 composer install
 ```
